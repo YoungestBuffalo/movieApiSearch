@@ -1,3 +1,17 @@
+## MovieDB Search React App
+
+This project allows the user to search movie titles from themoviedb api on a single page web application
+
+##### To Do
+
+- live website
+- search from different parameters other than titles 
+
+##### Limitations
+- requests per minute to the api
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
