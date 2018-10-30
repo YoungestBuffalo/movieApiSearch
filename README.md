@@ -10,7 +10,9 @@ This project allows the user to search movie titles from themoviedb api on a sin
 ##### Limitations
 - requests per minute to the api
 
+___
 
+#### React Stuff
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
