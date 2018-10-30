@@ -8,7 +8,7 @@ This project allows the user to search movie titles from themoviedb api on a sin
 - search from different parameters other than titles 
 
 ##### Limitations
-- requests per minute to the api
+- requests per minute from the api
 
 ___
 
